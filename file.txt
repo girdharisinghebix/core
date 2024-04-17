@@ -1,0 +1,9 @@
+Scaffold-DbContext "Server=LAPTOP-BPAQI80A;Database=BlogDB;Trusted_Connection=True;Trusted_Connection=True;
+TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
+
+https://codetosolutions.com/blog/20/inner-join,-left-join,-right-join-in-linq-query-c%23
+
+
+https://dotnettutorials.net/lesson/left-outer-join-in-linq/
+
+https://riptutorial.com/csharp/example/17012/groupby-sum-and-count
